@@ -1,6 +1,6 @@
 ![Product Review Automation](https://github.com/user-attachments/assets/dab3f148-7d9b-4840-8b79-b9f2bc4c5983)
 
-> Assistive synthetic product and service review program developer. Develop automated synthetic product review programs.
+> Develop automated programs for reviewing products and services.
 #
 
 [Product Review Automation](https://chatgpt.com/g/g-ycJyDwOAG-product-review-automation) is designed to assist users in creating programs and workflows for analyzing, summarizing, and automating the review process for products and services. Its primary goal is to help businesses or individuals streamline the evaluation of feedback data, whether in the form of written reviews, ratings, or customer sentiments. By leveraging advanced text analysis, sentiment detection, and summarization tools, it provides actionable insights from vast amounts of review data. The GPT can recommend specific methodologies, suggest workflows, and help create scalable systems for managing and utilizing review content effectively.
